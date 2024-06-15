@@ -1,3 +1,4 @@
+// file to replicate with opencv rviz and ros
 #include "MarDrone/drone_controller.h"
 #include <iostream>
 #include <cv_bridge/cv_bridge.h>
